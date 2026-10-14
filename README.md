@@ -13,8 +13,8 @@
 
 <a href="https://ridho-akbarsyah.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/ridhoakbarsyah"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ridhoakbarsyah15@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00D4FF" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=ridhoakbarsyah23&style=for-the-badge&color=0D2847&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="mailto:ridhoakbarsyah15@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://hits.sh/github.com/ridhoakbarsyah23.svg?style=for-the-badge&label=PROFILE+VIEWS&color=0D2847&labelColor=050816" alt="Profile views"/>
 
 </div>
 
@@ -229,7 +229,7 @@ $ cat current-objectives.txt
 
 <a href="https://ridho-akbarsyah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ridho--akbarsyah.vercel.app-00D4FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/ridhoakbarsyah"><img src="https://img.shields.io/badge/LinkedIn-ridhoakbarsyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ridhoakbarsyah15@gmail.com"><img src="https://img.shields.io/badge/Email-ridhoakbarsyah15@gmail.com-050816?style=for-the-badge&logo=gmail&logoColor=00D4FF" alt="Email"/></a>
+<a href="mailto:ridhoakbarsyah15@gmail.com"><img src="https://img.shields.io/badge/Email-ridhoakbarsyah15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
